@@ -2,3 +2,10 @@ pycocotools
 tqdm
 cython
 scipy
+astropy
+sunpy
+requests
+bs4
+lxml
+zeep
+drms
