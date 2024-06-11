@@ -79,7 +79,7 @@ The codebase is built on top of [Deformable DETR](https://github.com/fundamental
     ```
 
 * Other requirements  
-    For the rest au steps you need to go into this repository (where Solar_jet_model is saved locally, usually into Documents/Github/Solar_jet_model)
+    For all the next steps you need to go into this repository (where Solar_jet_model is saved locally, usually into Documents/Github/Solar_jet_model)
     ```bash
     cd ./Documents/Github/Solar_jet_model
     ```
@@ -92,7 +92,15 @@ The codebase is built on top of [Deformable DETR](https://github.com/fundamental
     now you need to run
     ```bash
     cd ./models/ops
+    ```
+    
+    ```bash
     python setup.py build install
+    ```
+    At this point you should be good to go, you can go to the verification  
+    Note: if there are some problems while installing MultiscaleDeformableAttention maybe delete the sources files for new try installations
+    ```bash
+    del MultiScaleDeformableAttention.egg-info/SOURCES.txt
     ```
 
 * Verify the installation went well (sometimes even with errors with the build of multiscale it still succeed) so

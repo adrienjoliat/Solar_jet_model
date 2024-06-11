@@ -9,3 +9,5 @@ bs4
 lxml
 zeep
 drms
+ipykernel
+timm
