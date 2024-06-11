@@ -1,0 +1,4 @@
+# ninja log v5
+19	10242	1713823282596582600	/mnt/c/Users/adrie/Documents/GitHub/Jet-detection-and-localisation/TransVOD/TransVOD_Lite-main/models/ops/build/temp.linux-x86_64-cpython-311/mnt/c/Users/adrie/Documents/GitHub/Jet-detection-and-localisation/TransVOD/TransVOD_Lite-main/models/ops/src/cpu/ms_deform_attn_cpu.o	17bc53e3d6351e63
+30	15669	1713823288072255900	/mnt/c/Users/adrie/Documents/GitHub/Jet-detection-and-localisation/TransVOD/TransVOD_Lite-main/models/ops/build/temp.linux-x86_64-cpython-311/mnt/c/Users/adrie/Documents/GitHub/Jet-detection-and-localisation/TransVOD/TransVOD_Lite-main/models/ops/src/vision.o	f94cdd07955e319e
+25	20858	1713823293238950200	/mnt/c/Users/adrie/Documents/GitHub/Jet-detection-and-localisation/TransVOD/TransVOD_Lite-main/models/ops/build/temp.linux-x86_64-cpython-311/mnt/c/Users/adrie/Documents/GitHub/Jet-detection-and-localisation/TransVOD/TransVOD_Lite-main/models/ops/src/cuda/ms_deform_attn_cuda.o	e39b602a6046593c
