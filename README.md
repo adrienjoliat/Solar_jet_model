@@ -97,13 +97,13 @@ The codebase is built on top of [Deformable DETR](https://github.com/fundamental
     ```bash
     python setup.py build install
     ```
-    At this point you should be good to go, you can go to the verification  
-    Note: if there are some problems while installing MultiscaleDeformableAttention maybe delete the sources files for new try installations
+    At this point you should be good to go, you can go to the verification (next point)  
+    Note: if there are some problems while installing MultiscaleDeformableAttention maybe delete the sources file before trying new installations
     ```bash
     del MultiScaleDeformableAttention.egg-info/SOURCES.txt
     ```
 
-* Verify the installation went well (sometimes even with errors with the build of multiscale it still succeed) so
+* Verify the installation went well (sometimes even with minors errors of the build of multiscale, it still succeed) so
 run the fist cell of **Use_model_with_new_data.ipynb**
    
 
